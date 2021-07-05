@@ -1,1 +1,2 @@
 - người a tạo file a
+- người b sửa file b
